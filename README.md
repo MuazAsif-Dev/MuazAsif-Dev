@@ -36,6 +36,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+## 📝 Blog Posts
+<!-- BLOG-POSTS-LIST:START -->
+<!-- BLOG-POSTS-LIST:END -->
+
 
 ## 📊 GitHub Stats
 
