@@ -38,7 +38,7 @@
 
 ## 📝 Blog Posts
 <!-- BLOG-POSTS-LIST:START -->
-- [Breaking the Chains of Procrastination: Hello World!](https://muazasif.hashnode.dev/breaking-the-chains-of-procrastination-hello-world)
+- [Breaking the Chains of Procrastination: Hello World!](https://muazasif.dev/breaking-the-chains-of-procrastination-hello-world)
 <!-- BLOG-POSTS-LIST:END -->
 
 
