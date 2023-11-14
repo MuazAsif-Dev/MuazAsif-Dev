@@ -1,4 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br/>
+### Hi there, I'm [Muaz Asif](https://muazasif.bio.link/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br/>
+
 
 [![Banner][banner-img]][banner-link]
 
