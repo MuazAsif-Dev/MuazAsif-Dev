@@ -37,16 +37,16 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## 📝 Blog Posts
+## 📝 Blog Posts:
 <!-- BLOG-POSTS-LIST:START -->
 - [Breaking the Chains of Procrastination: Hello World!](https://muazasif.dev/breaking-the-chains-of-procrastination-hello-world)
 <!-- BLOG-POSTS-LIST:END -->
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <details>
-<summary>View Details</summary>
+<summary><b>⚡ View Details</b></summary>
 <p align="center">
   <img  alt="Muaz Asif's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuazAsif-Dev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=holi" />
 </p>
