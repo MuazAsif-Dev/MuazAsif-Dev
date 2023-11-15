@@ -39,6 +39,7 @@
 
 ## 📝 Blog Posts:
 <!-- BLOG-POSTS-LIST:START -->
+- [Beyond the &lt;div&gt;: Essential HTML Tags You Didn&#39;t Know You Needed](https://muazasif.dev/beyond-the-div-essential-html-tags-you-didnt-know-you-needed)
 - [Breaking the Chains of Procrastination: Hello World!](https://muazasif.dev/breaking-the-chains-of-procrastination-hello-world)
 <!-- BLOG-POSTS-LIST:END -->
 
